@@ -1,2 +1,2 @@
-### Reasoning Machine
+### Listening Machine
 A Machine that reasons.

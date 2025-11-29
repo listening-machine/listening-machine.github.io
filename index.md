@@ -1,19 +1,23 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Listening Machine
 ---
-# Reasoning Machine
+# Listening Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Listening-Machine (meta)](https://listening-machine.github.io/meta/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Listening-Machine (oaio)](https://listening-machine.github.io/oaio/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
+[Listening-Machine (gemini)](https://listening-machine.github.io/gemini/)
 
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Listening-Machine (grok)](https://listening-machine.github.io/grok/)
+
+[Listening-Machine (depsek)](https://listening-machine.github.io/depsek/)
+
+[Listening-Machine (depsekr)](https://listening-machine.github.io/depsekr/)
 
